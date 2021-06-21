@@ -1,0 +1,195 @@
+estado,aeroporto,id
+Goiás,Goiânia,GYN
+Goiás,Rio Verde,RVD
+Goiás,Caldas Novas,CLV
+Goiás,Catalão,TLZ
+Distrito Federal,Brasília,BSB
+Mato Grosso,Alta Floresta,AFL
+Mato Grosso,Barra dos Garças,BPG
+Mato Grosso,Cáceres,CCX
+Mato Grosso,Cuiabá,CGB
+Mato Grosso,Rondonópolis,ROO
+Mato Grosso,Tangará da Serra,TGQ
+Mato Grosso,Sinop,OPS
+Mato Grosso,Sorriso,SMT
+Mato Grosso do Sul,Bonito,BYO
+Mato Grosso do Sul,Cassilândia,CSS
+Mato Grosso do Sul,Campo Grande,CGR
+Mato Grosso do Sul,Corumbá,CMG
+Mato Grosso do Sul,Dourados,DOU
+Mato Grosso do Sul,Paranaíba,PBB
+Mato Grosso do Sul,Ponta Porã,PMG
+Mato Grosso do Sul,Três Lagoas,TJL
+Acre,Cruzeiro do Sul,CZS
+Acre,Rio Branco,RBR
+Amapá,Macapá,MCP
+Amazonas,Barcelos,BAZ
+Amazonas,Boca do Acre,BCR
+Amazonas,Borba,RBB
+Amazonas,Carauari,CAF
+Amazonas,Coari,CIZ
+Amazonas,Eirunepé,ERN
+Amazonas,Fonte Boa,FBA
+Amazonas,Humaitá,HUW
+Amazonas,Itacoatiara,ITA
+Amazonas,Lábrea,LBR
+Amazonas,Manaus,MAO
+Amazonas,Manicoré,MNX
+Amazonas,Maués,MBZ
+Amazonas,Novo Aripuanã,NVP
+Amazonas,Parintins,PIN
+Amazonas,Santa Isabel do Rio Negro,IRZ
+Amazonas,Santo Antônio do Içá,IPG
+Amazonas,São Gabriel da Cachoeira,SJL
+Amazonas,São Paulo de Olivença,OLC
+Amazonas,Tabatinga,TBT
+Amazonas,Tefé,TFF
+Pará,Altamira,ATM
+Pará,Belém,BEL
+Pará,Carajás,CKS
+Pará,Itaituba,ITB
+Pará,Marabá,MAB
+Pará,Santarém,STM
+Rondônia,Porto Velho,PVH
+Rondônia,Ji Paraná,JPR
+Rondônia,Cacoal,OAL
+Rondônia,Vilhena,BVH
+Roraima,Boa Vista,BVB
+Tocantins,Araguaína,AUX
+Tocantins,Arraias,AAI
+Tocantins,Dianópolis,DNO
+Tocantins,Gurupi,GRP
+Tocantins,Miracema do Tocantins,NTM
+Tocantins,Palmas,PMW
+Tocantins,Porto Nacional,PNB
+Tocantins,Taquatinga,QHN
+Alagoas,Arapiraca,APQ
+Alagoas,Maceió,MCZ
+Bahia,Barra,BQQ
+Bahia,Barreiras,BRA
+Bahia,Belmonte,BVM
+Bahia,Bom Jesus da Lapa,LAZ
+Bahia,Brumado,BMS
+Bahia,Canavieiras,CNV
+Bahia,Caravelas,CRQ
+Bahia,Feira de Santana,FEC
+Bahia,Guanambi,GNM
+Bahia,Ilhéus,IOS
+Bahia,Ipiaú,IPU
+Bahia,Irecê,IRE
+Bahia,Itabuna,ITN
+Bahia,Ituberá,ITE
+Bahia,Jacobina,JCM
+Bahia,Jequié,JEQ
+Bahia,Lençóis,LEC
+Bahia,Mucuri,MVS
+Bahia,Paulo Afonso,PAV
+Bahia,Prado,PDF
+Bahia,Porto Seguro,BPS
+Bahia,Salvador,SSA
+Bahia,Teixeira de Freitas,TXF
+Bahia,Una,UNA
+Bahia,Valença,VAL
+Bahia,Vitória da Conquista,VDC
+Ceará,Aracati,ARX
+Ceará,Camocim,CMC
+Ceará,Fortaleza,FOR
+Ceará,Jericoacoara,JJD
+Ceará,Juazeiro do Norte,JDO
+Maranhão,Balsas,BSS
+Maranhão,Barreirinhas,BRB
+Maranhão,Imperatriz,IMP
+Maranhão,Pinheiro,PHI
+Maranhão,São Luís,SLZ
+Paraíba,Campina Grande,CPV
+Paraíba,João Pessoa,JPA
+Pernambuco,Caruaru,CAU
+Pernambuco,Fernando de Noronha,FEN
+Pernambuco,Petrolina,PNZ
+Pernambuco,Recife,REC
+Pernambuco,Serra Talhada,SET
+Piauí,Floriano,FLB
+Piauí,Guadalupe,GDP
+Piauí,Parnaíba,PHB
+Piauí,Picos,PCS
+Piauí,Teresina,THE
+Rio Grande do Norte,Mossoró,MVF
+Rio Grande do Norte,Natal,NAT
+Sergipe,Aracaju,AJU
+Espírito Santo,Vitória,VIX
+Espírito Santo,Cachoeiro de Itapemirim,CDI
+Espírito Santo,Guarapari,GUZ
+Espírito Santo,São Mateus,SBJ
+Minas Gerais,Barbacena,QAK
+Minas Gerais,Patos de Minas,POJ
+Minas Gerais,Confins,CNF
+Minas Gerais,Divinópolis,DIQ
+Minas Gerais,Governador Valadares,GVR
+Minas Gerais,Juiz de Fora,JDF
+Minas Gerais,Montes Claros,MOC
+Minas Gerais,Pampulha,PLU
+Minas Gerais,Poços de Caldas,POO
+Minas Gerais,São João del-Rei,JDR
+Minas Gerais,Uberlândia,UDI
+Minas Gerais,Uberaba,UBA
+Minas Gerais,Zona da Mata,IZA
+Rio de Janeiro,Bartolomeu de Gusmão,SNZ
+Rio de Janeiro,Campos dos Goytacazes,CAW
+Rio de Janeiro,Cabo Frio,CFB
+Rio de Janeiro,Galeão,GIG
+Rio de Janeiro,Itaperuna,ITP
+Rio de Janeiro,Macaé,MEA
+Rio de Janeiro,Resende,QRZ
+Rio de Janeiro,Santos Dumont,SDU
+São Paulo,Araçatuba,ARU
+São Paulo,Araraquara,AQA
+São Paulo,Assis,AIF
+São Paulo,Avaré/Arandu,QVP
+São Paulo,Barretos,BAT
+São Paulo,Bauru/Arealva,JTC
+São Paulo,Botucatu,QCP
+São Paulo,Bragança Paulista,BJP
+São Paulo,Campo dos Amarais,CPQ
+São Paulo,Congonhas,CGH
+São Paulo,Dracena,QDC
+São Paulo,Guaratinguetá,GUJ
+São Paulo,Guarulhos,GRU
+São Paulo,Franca,FRC
+São Paulo,Jundiaí,QDV
+São Paulo,Lençóis Paulista,QGC
+São Paulo,Lins,LIP
+São Paulo,Marília,MII
+São Paulo,Ourinhos,OUS
+São Paulo,Piracicaba,QHB
+São Paulo,Presidente Prudente,PPB
+São Paulo,Ribeirão Preto,RAO
+São Paulo,São Carlos,QSC
+São Paulo,São José do Rio Preto,SJP
+São Paulo,São José dos Campos,SJK
+São Paulo,Sorocaba,SOD
+São Paulo,Ubatuba,UBT
+São Paulo,Viracopos,VCP
+São Paulo,Votuporanga,VOT
+Paraná,Cascavel,CAC
+Paraná,Curitiba,CWB
+Paraná,Foz do Iguaçu,IGU
+Paraná,Londrina,LDB
+Paraná,Maringá,MGF
+Paraná,Ponta Grossa,PGZ
+Paraná,Umuarama,UMU
+Paraná,Pato Branco,PTO
+Rio Grande do Sul,Bagé,BGX
+Rio Grande do Sul,Caxias do Sul,CXJ
+Rio Grande do Sul,Passo Fundo,PFB
+Rio Grande do Sul,Porto Alegre,POA
+Rio Grande do Sul,Santa Maria,RIA
+Rio Grande do Sul,Uruguaiana,URG
+Santa Catarina,Blumenau,BNU
+Santa Catarina,Chapecó,XAP
+Santa Catarina,Forquilhinha,CCM
+Santa Catarina,Florianópolis,FLN
+Santa Catarina,Jaguaruna,JJG
+Santa Catarina,Joaçaba,JCB
+Santa Catarina,Joinville,JOI
+Santa Catarina,Lages,LAJ
+Santa Catarina,Navegantes,NVT
