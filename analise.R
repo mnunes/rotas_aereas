@@ -40,6 +40,8 @@ rotas_br <-
   left_join(rotas_br, by = c("departure", "destination")) %>%
   arrange(n)
 
+# mapa
+
 ggplot(mapa_br) +
   geom_sf(fill = "white") +
   geom_segment(data = rotas_br, aes(x = longitude_dep, y = latitude_dep, xend = longitude_des, yend = latitude_des, colour = as.factor(n))) +
@@ -47,6 +49,13 @@ ggplot(mapa_br) +
   scale_color_viridis_d() + 
   theme_void()
 
+# rotas mais comuns
 
+rotas_br %>% 
+  arrange(desc(n)) %>% 
+  unique() %>% 
+  select(departure, destination, n) %>%
+  filter(n >= 5) %>%
+  kable()
 
 
