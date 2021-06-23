@@ -27,10 +27,6 @@ rotas_br <-
   left_join(aeroportos, by = "id") %>%
   select(departure, destination = id, latitude_dep, longitude_dep, latitude_des = latitude, longitude_des = longitude)
 
-# mapa
-
-mapa_br <- get_brmap("State")
-
 # numero de voos por rota
 
 rotas_br <- 
@@ -41,6 +37,8 @@ rotas_br <-
   arrange(n)
 
 # mapa
+
+mapa_br <- get_brmap("State")
 
 ggplot(mapa_br) +
   geom_sf(fill = "white") +
